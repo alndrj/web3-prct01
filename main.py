@@ -1,3 +1,3 @@
 
 def simple_function():
-	print("hi")
+	print("hello");
